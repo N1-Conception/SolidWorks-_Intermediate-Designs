@@ -5,4 +5,4 @@ This project demonstrates the intermediate-level of a spanner using solidworks. 
 solidworks part file
 ## License
 this project is licensed under the MIT license.
-![Part Drawing Preview](Part2.png)
+![Part Drawing Preview](part2.png)

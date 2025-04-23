@@ -1,10 +1,9 @@
 ***********************************************************
-*            SOLIDWORKS INTERMEDIATE DESIGNS               *
+            SOLIDWORKS INTERMEDIATE DESIGNS               
 ----------------------------------------------------------
-*  Unbox the creativity like a toolbox of imagination!     *
-*                                                          *
-*  “From gears that spin to arms that swing,               *
-*   These models show what practice can bring!”            *
+  Unbox the creativity like a toolbox of imagination!                                                             
+*  “From gears that spin to arms that swing,               
+*   These models show what practice can bring!”            
 ************************************************************
 
 WHAT’S INSIDE?

@@ -1,5 +1,5 @@
 ***********************************************************
-            SOLIDWORKS INTERMEDIATE DESIGNS               
+     SOLIDWORKS INTERMEDIATE DESIGNS               
 ----------------------------------------------------------
   Unbox the creativity like a toolbox of imagination!                                                             
 *  “From gears that spin to arms that swing,               

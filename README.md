@@ -17,7 +17,7 @@
 
 ## 📂 *Project Structure*
 
-```bash
+
 SolidWorks-Intermediate-Designs/
 ├── part-01.SLDPRT
 ├── part-02.SLDPRT
@@ -28,7 +28,7 @@ SolidWorks-Intermediate-Designs/
 │   └── part-03-preview.png
 └── README.md
 
-'''
+
 
 🖼 Previews
 

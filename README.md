@@ -38,7 +38,7 @@ SolidWorks-Intermediate-Designs/
 
 
 
-🖼 Previews
+## 🖼  *Previews*
 
 🔧 Software
 
@@ -47,7 +47,8 @@ CAD Tool: SolidWorks (Recommended version: 2022 or later)
 File Format: .SLDPRT
 
 
-Author-
+##  *Author*
+
 
 Nishchay Sharma
 

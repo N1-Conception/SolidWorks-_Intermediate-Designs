@@ -19,13 +19,21 @@
 
 
 SolidWorks-Intermediate-Designs/
+
 ├── part-01.SLDPRT
+
 ├── part-02.SLDPRT
+
 ├── part-03.SLDPRT
+
 ├── images/
+
 │   ├── part-01-preview.png
+
 │   ├── part-02-preview.png
+
 │   └── part-03-preview.png
+
 └── README.md
 
 

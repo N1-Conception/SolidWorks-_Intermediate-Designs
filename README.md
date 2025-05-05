@@ -1,45 +1,55 @@
-***********************************************************
-     SOLIDWORKS INTERMEDIATE DESIGNS               
-----------------------------------------------------------
-  Unbox the creativity like a toolbox of imagination!                                                             
-*  “From gears that spin to arms that swing,               
-*   These models show what practice can bring!”            
-************************************************************
+# SolidWorks Intermediate Designs
 
-WHAT’S INSIDE?
-==============
-
-- 3D Parts modeled with precision  
-  >> Gears | Pistons | Mechanical Jigs
-
-- Assemblies with clean mates and movement  
-  >> Linkages | Mechanisms | Fixtures
-
-- Engineering Drawings  
-  >> Annotations | GD&T | BOMs
-
-- Exploded Views & Animations  
-  >> Realistic motion & clarity
+> A curated collection of intermediate-level SolidWorks CAD models, showcasing parametric designs, mechanical components, and assembly-ready parts.
 
 
-WHY THIS REPO MATTERS
-=====================
+---
 
-This isn’t just CAD.  
-It’s a canvas where creativity meets calculation.  
-A step up from basics — into real-world-ready designs!
+## ✨ *Repository Highlights*
 
-Perfect for:
->> Mechanical students | CAD learners | Design engineers | Curious minds
+- 📐 *Parametric Models*: Sketch-driven and fully constrained.
+
+- ⚙ *Mechanical Components*: Ready-to-assemble designs.
+
+- 🛠 *Feature Techniques*: Revolve, Loft, Sweep, Fillet, and advanced mates.
+
+- 📊 *Optimized for Manufacturing*: Machinable and production-friendly parts.
+
+## 📂 *Project Structure*
+
+```bash
+SolidWorks-Intermediate-Designs/
+├── part-01.SLDPRT
+├── part-02.SLDPRT
+├── part-03.SLDPRT
+├── images/
+│   ├── part-01-preview.png
+│   ├── part-02-preview.png
+│   └── part-03-preview.png
+└── README.md
 
 
-BADGES OF PROGRESS
-==================
+🖼 Previews
 
-[*] SolidWorks - Intermediate
-[*] 3D Modeling Skills - Level Up!
-[*] Assembly Design - Clean & Smart!
+🔧 Software
 
-************************************************************
-*            BUILT WITH PRECISION AND PASSION              *
-******************************
+CAD Tool: SolidWorks (Recommended version: 2022 or later)
+
+File Format: .SLDPRT
+
+
+Author-
+
+Nishchay Sharma
+
+>B.Tech (Mechanical Engineering)| Gold Medalist — 2024
+
+>Design Engineer
+
+
+
+⚖ License
+
+This repository is licensed under the MIT License — see the LICENSE file for details.
+
+Thanks for Viewing!

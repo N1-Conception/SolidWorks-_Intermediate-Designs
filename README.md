@@ -28,6 +28,7 @@ SolidWorks-Intermediate-Designs/
 │   └── part-03-preview.png
 └── README.md
 
+'''
 
 🖼 Previews
 

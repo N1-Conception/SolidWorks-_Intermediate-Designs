@@ -28,7 +28,7 @@ This project contains a 3D CAD model of a *Mounting Bracket with an integrated C
 
 
 
-##Author-
+## Author
 
 Nishchay Sharma
 

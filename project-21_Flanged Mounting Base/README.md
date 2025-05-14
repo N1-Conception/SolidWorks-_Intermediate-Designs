@@ -15,17 +15,6 @@ This repository contains the 3D CAD model of a *Flanged Mounting Base*, created 
 
 - Rigid and lightweight geometry
 
-
-## Applications
-
-- Mechanical housing components
-
-- Shaft and bearing support structures
-
-- Machinery mounting interfaces
-
-
-
 ## Design Specifications
 
 - Modeled using SolidWorks 2023 
@@ -35,6 +24,14 @@ This repository contains the 3D CAD model of a *Flanged Mounting Base*, created 
 - Dimensions can be customized based on application requirements
 
 
+
+## Applications
+
+- Mechanical housing components
+
+- Shaft and bearing support structures
+
+- Machinery mounting interfaces
 
 
 

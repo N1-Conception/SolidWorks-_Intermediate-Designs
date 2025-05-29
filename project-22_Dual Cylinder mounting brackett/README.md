@@ -49,10 +49,10 @@ solidworks part file
 This project is licensed under the MIT license.
 
 ### Top View-
-![Top View](part22a.png)
+![Top View](part22b.png)
 
 ### Isometric View-
-![Isometric View](part22b.png)
+![Isometric View](part22a.png)
 
 
 Thanks for Viewing!

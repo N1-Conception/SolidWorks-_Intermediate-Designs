@@ -11,9 +11,18 @@
 
 - 📝 Drawing Type:- Part Modeling
 
+
+[![Watch the Short](https://img.youtube.com/vi/HwrPpHn3dU8/maxresdefault.jpg)](https://youtube.com/shorts/HwrPpHn3dU8)
+
+
+
 - 📐 Features: Tangent propagation, concentric relations, R6 slot, symmetric extrusions
 
 ---
+
+
+
+
 
  
 

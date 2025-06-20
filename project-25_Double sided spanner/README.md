@@ -1,31 +1,34 @@
-# Part-drawing-24-SW
-
-###  Open-End Wrench Model
+# Part-drawing-25-SW
 
 
-- 📏 Dimensions: Based on MMGS
+🔧 Double-Sided Spanner (SolidWorks Model)
 
-- 🧰 Material: Alloy Steel
-
-- 📅 Drawing Date: 31 March 2025
-
-- 📝 Drawing Type:- Part Modeling
-
-
-[![Watch the Short](https://img.youtube.com/vi/HwrPpHn3dU8/maxresdefault.jpg)](https://youtube.com/shorts/HwrPpHn3dU8)
+This repository contains a detailed 3D CAD model of a Double-Sided Spanner created using SolidWorks. The design includes precise measurements and realistic geometry, suitable for mechanical assembly references, prototyping, or practice in design and modeling.
 
 
 
-- 📐 Features: Tangent propagation, concentric relations, R6 slot, symmetric extrusions
+🧰 Design Highlights
 
----
+Dual-head spanner design 
 
+Ergonomic and realistic shape
 
+Parametric modeling approach for easy resizing
 
+Created in MMGS (millimeter, gram, second) unit system
+
+🎯 Applications
+
+Educational and training purposes for CAD modeling
+
+Virtual assembly and mechanical simulations
+
+Reverse engineering practice
+
+Rendering and technical documentation
 
 
  
-
 ## Author
 
 Nishchay Sharma
@@ -37,7 +40,7 @@ Nishchay Sharma
 Made with passion for cars and 3D printing. 
 
 ## File Include
-- 'project24_nishchay.  SLDPRT' -
+- 'project25_nishchay.  SLDPRT' -
 solidworks part file
 
 ## License
@@ -45,9 +48,9 @@ This project is licensed under the MIT license.
 
 
 ### Isometric View-
-![Isometric View-I](part24a.png)
+![Isometric View-I](part25a.png)
 
 ### Isometric View-
-![Isometric View-II](part24b.png)
+![Isometric View-II](part25b.png)
 
 Thanks for Viewing!

@@ -1,13 +1,13 @@
 # Part-drawing-25-SW
 
 
-🔧 Double-Sided Spanner (SolidWorks Model)
+## 🔧 Double-Sided Spanner (SolidWorks Model)
 
 This repository contains a detailed 3D CAD model of a Double-Sided Spanner created using SolidWorks. The design includes precise measurements and realistic geometry, suitable for mechanical assembly references, prototyping, or practice in design and modeling.
 
 
 
-🧰 Design Highlights
+## 🧰 Design Highlights
 
 Dual-head spanner design 
 
@@ -17,7 +17,7 @@ Parametric modeling approach for easy resizing
 
 Created in MMGS (millimeter, gram, second) unit system
 
-🎯 Applications
+## 🎯 Applications
 
 Educational and training purposes for CAD modeling
 
@@ -48,9 +48,9 @@ This project is licensed under the MIT license.
 
 
 ### Isometric View-
-![Isometric View-I](part25a.png)
+![Isometric View-I](25a.png)
 
 ### Isometric View-
-![Isometric View-II](part25b.png)
+![Isometric View-II](25b.png)
 
 Thanks for Viewing!

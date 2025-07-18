@@ -2,7 +2,7 @@
 
 # 🔩 Flanged Tee Pipe Fitting | SolidWorks 3D Model
 
-![Tee Joint Preview](insert-image-link-here)
+
 
 ## 📌 Overview
 

@@ -24,7 +24,9 @@ Here’s the **Quad Flow Connector**, designed using **SolidWorks Surfacing tech
 
 - Trim, Knit & Fillet  
 
-- Connector Concept Visualization  
+- Connector Concept Visualization. 
+
+ 
 
 📂 **Repository Content**  
 

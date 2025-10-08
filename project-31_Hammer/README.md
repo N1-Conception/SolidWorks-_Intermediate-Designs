@@ -55,11 +55,11 @@ solidworks part file
 This project is licensed under the MIT license.
 
 
-### Isometric View-
+### Isometric View -
 ![Isometric View](31.png)
 
-### Front View-
-![Front View](31 b.png)
+### Front View -
+![Front View](31b.png)
 
 
 ### 📌 Created by: *N1 CONCEPTION*

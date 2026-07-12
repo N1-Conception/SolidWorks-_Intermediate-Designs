@@ -1,4 +1,4 @@
-# Part-drawing-33-SW
+# Part-drawing-32-SW
 
 # ☕ Cup | SolidWorks 3D CAD Model
 
@@ -26,9 +26,6 @@ If you found this project helpful, consider ⭐ starring the repository.
 ## 📜 License
 
 MIT License — free to use, modify, and share.
-
--
-
 
 
 ## Author

@@ -18,6 +18,8 @@
 ## 📂 *Project Structure*
 
 
+
+
 SolidWorks-Intermediate-Designs/
 
 ├── part-01.SLDPRT
